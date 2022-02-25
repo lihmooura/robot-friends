@@ -1,16 +1,17 @@
-export const robots = [
-    {
+export const robots = [{
         id: 1,
         name: 'Leane Green',
         username: 'Bret',
-        email: 'Sincere@april.biz'
+        email: 'Sincere@april.biz',
+
+
     },
     {
         id: 2,
         name: 'Ervin Howell',
         username: 'Antonette',
         email: 'Shane@melissa.tv'
-    },   
+    },
 
     {
         id: 3,
